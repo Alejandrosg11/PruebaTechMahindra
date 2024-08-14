@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.in-game-space {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card-button {
+  width: 180px;
+  margin-bottom: 20px;
+}
